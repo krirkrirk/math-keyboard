@@ -1,6 +1,6 @@
 {
-  "name": "math-keyboard",
-  "private": true,
+  "name": "mathquill-keyboard",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-mathquill": "^1.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
